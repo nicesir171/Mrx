@@ -1,19 +1,26 @@
-## Welcome to GitHub Pages
+## MrHD X
 
 You can use the [editor on GitHub](https://github.com/nicesir171/Mrx/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Join our discord to get information about this exploit [Jekyll](https://discord.gg/TEd4sS) and don't forget to obey all the rules :).
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+what are the advantages of MRhd X
 
-# Header 1
-## Header 2
-### Header 3
+-No exploit key
+
+
+-stable and fast when executing
+
+
+-Multi A P I and custom api
+
+
+-has a nice UI (I think)
 
 - Bulleted
 - List
@@ -23,7 +30,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+DOWNLOAD NOW BABE [Link] !!!!
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
